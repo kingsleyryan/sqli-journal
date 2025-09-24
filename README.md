@@ -71,4 +71,5 @@ level2/2025-09-24-Blind-SQLi.png
 level3/2025-09-24-Boolean-Blind-SQLi.png
 level4/2025-09-24-Time-Based-Blind-SQLi.png  
 ## Remediation
-See `journal/remediation.md` for a concise list of fixes and best practices to prevent SQL Injection.
+See `SQLi-remediation/remediation.md` for a concise list of fixes and best practices to prevent SQL Injection.
+
